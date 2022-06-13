@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SqliteTutorial</string>
+
+    <string-array name="categorie">
+        <item>Roman</item>
+        <item>Comédie</item>
+        <item>Educatif</item>
+        <item>Jeuness</item>
+        <item>Biographie</item>
+    </string-array>
+</resources>
